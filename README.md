@@ -1,0 +1,2 @@
+TestScoped_ptr
+==============
