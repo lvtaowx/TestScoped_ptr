@@ -1,2 +1,0 @@
-TestScoped_ptr
-==============
